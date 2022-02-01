@@ -1,0 +1,44 @@
+*{
+    /* padding-inline: 20px; */
+    text-align: justify;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.heading_container{
+    padding: 40px;
+}
+
+.container{
+    background-color: beige;
+   
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+
+.space{
+    padding: 80px 0;
+    margin: 50px auto 0 auto;
+}
+
+p{
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.progress_container{
+    /* position: absolute; */
+    background-color: #cecece;
+    height: 5px;
+}
+
+.progress_bar{
+    background-color: blueviolet;
+    height: 5px;
+    /* width: 5%; */
+}
